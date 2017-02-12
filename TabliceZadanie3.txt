@@ -24,7 +24,7 @@ namespace Zad_4._4
                 Console.Write("{0,8}", tab[i]);
             }
 
-            Console.WriteLine("Liczby pierwsze w powy¿szym zbiorze: ");
+            Console.WriteLine("Liczby pierwsze w powyzszym zbiorze: ");
 
             int suma = 0;
             for (j = 0; j < tab.Length; j++)
